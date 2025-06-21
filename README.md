@@ -2,7 +2,7 @@
 
 
 🎓 M.Sc. Applied Data Science student at the University of Göttingen (Germany)  
-🎓 B.E. Electrical Engineering from NUST – National University of Sciences and Technology (Pakistan, Islamabad)
+🎓 B.E. Electrical Engineering from NUST – National University of Sciences and Technology (Pakistan, Islamabad)  
 💡 Passionate about Machine Learning, Computer Vision, and AI Systems  
 🌍 Currently based in Göttingen, Germany    
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-usman-khanzada/)
