@@ -1,15 +1,10 @@
 # 👋 Hi there! I'm Muhammad Usman Khanzada
 
-🎓 M.Sc. Applied Data Science student at the University of Göttingen  
-💡 Passionate about Machine Learning, Computer Vision, and AI Systems  
-🌍 Currently based in Göttingen, Germany  
-📬 muhammad.khanzada@stud.uni-goettingen.de  
-🔗 [LinkedIn](# 👋 Hi there! I'm Muhammad Usman Khanzada
 
-🎓 M.Sc. Applied Data Science student at the University of Göttingen  
+🎓 M.Sc. Applied Data Science student at the University of Göttingen (Germany)  
+🎓 B.E. Electrical Engineering from NUST – National University of Sciences and Technology (Pakistan, Islamabad)
 💡 Passionate about Machine Learning, Computer Vision, and AI Systems  
-🌍 Currently based in Göttingen, Germany  
-📬 muhammad.khanzada@stud.uni-goettingen.de  
+🌍 Currently based in Göttingen, Germany    
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-usman-khanzada/)
 
 ---
@@ -29,7 +24,7 @@ I'm a data science enthusiast with a background in Electrical Engineering and ha
 `PyTorch` | `TensorFlow` | `Keras` | `OpenCV` | `Scikit-learn` | `PySpark` | `Autoencoders` | `Librosa`
 
 **Software & Platforms:**  
-`Jupyter Notebook` | `MATLAB` | `Visual Studio` | `Linux` | `UNITY` | `Arduino IDE` | `Proteus`
+`Jupyter Notebook` | `MATLAB` | `Visual Studio` | `MySQL` | `Arduino IDE` | `Proteus`
 
 **Soft Skills:**  
 Team Leadership • Problem Solving • Curiosity • Dedication
@@ -65,28 +60,11 @@ Team Leadership • Problem Solving • Curiosity • Dedication
 
 ---
 
-## 📜 Certifications
-
-- 🎓 Machine Learning Specialization – Stanford Online (Complete)
-- 📱 Meta Android Developer Professional Certificate (3/12)
-- 🔐 Google Cybersecurity Certificate (4/8)
-- 📊 Excel Skills for Business – Macquarie University
-
----
-
 ## 🌐 Languages
 
 - 🇵🇰 Urdu (Native)
 - 🇬🇧 English (Fluent)
 - 🇩🇪 German (Beginner, A1.2)
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musmankhanzada&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musmankhanzada&layout=compact)
-
----
 
 ⭐ *Let's connect and build something impactful!*
